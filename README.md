@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Allianz Technology Thailand
+- 🌱 I’m currently learning Everything
+- 👯 I’m looking to collaborate on people
+- 🤔 I’m looking for help with NONE
+- 💬 Ask me about NONE
+- 📫 How to reach me: [Issue](https://github.com/babe124578/babe124578/issues)
+- 😄 Pronouns: NONE
+- ⚡ Fun fact: NONE
+
 <!--
 **babe124578/babe124578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
